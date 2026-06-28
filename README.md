@@ -1,5 +1,6 @@
 # calculadora_js
 🖥️ Tarjeta de Producto Interactiva - Laptop Gamer AMD
+Link: https://ptapialavin.github.io/calculadora_js/ git 
 📌 Descripción
 Proyecto desarrollado como parte del curso Desarrollo Full Stack JavaScript de Desafío Latam, en el módulo JavaScript para la Web, unidad Introducción a JavaScript.
 La aplicación consiste en una tarjeta de producto que permite aumentar o disminuir la cantidad de una Laptop Gamer AMD, calculando automáticamente el total a pagar.
